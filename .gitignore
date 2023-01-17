@@ -1,0 +1,8 @@
+# Configurações de deploy
+squarecloud.app
+
+# Variáveis de ambiente
+.env
+
+# Cache
+/__pycache__
